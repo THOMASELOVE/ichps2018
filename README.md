@@ -23,7 +23,7 @@ Thomas E. Love, Ph.D. is Professor of [Medicine](https://case.edu/medicine/) and
 - Dr. Love is also the Director of Biostatistics and Evaluation at the [Center for Health Care Research and Policy](http://www.chrp.org), at CWRU and [MetroHealth Medical Center](https://www.metrohealth.org/research). 
 - Dr. Love is a Fellow of the [American Statistical Association](http://www.amstat.org/), is a past Chair of the [Health Policy Statistics Section of ASA](http://community.amstat.org/hpss/home), and co-chaired the 2011 ICHPS, held in Cleveland, Ohio. 
 - Dr. Love's doctorate was earned at the [University of Pennsylvania](https://statistics.wharton.upenn.edu/), where he completed his dissertation under [Paul Rosenbaum](http://www-stat.wharton.upenn.edu/~rosenbap/). 
-    - Dr. Rosenbaum and [Donald Rubin](https://statistics.fas.harvard.edu/people/donald-b-rubin), developed propensity scores. 
+    - Dr. Rosenbaum and [Donald Rubin](https://statistics.fas.harvard.edu/people/donald-b-rubin) developed propensity scores. 
 - Dr. Love holds Masters degrees in statistics (from Penn) and in mathematics education from [Teachers College, Columbia University](http://www.tc.columbia.edu/), and an A.B. from [Columbia College, Columbia University](https://www.college.columbia.edu/). 
 
 Dr. Love responds to email sent to `Thomas dot Love at case dot edu`.
