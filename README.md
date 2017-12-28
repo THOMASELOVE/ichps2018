@@ -3,6 +3,12 @@
 Materials for ICHPS 2018 Workshop: **Designing and Analyzing Observational Health Policy Studies Using Propensity Scores**
 Wednesday 2018-01-10 8 - 10 AM in the Crystal Ballroom CD at the Charleston Marriott Hotel, in Charleston, SC
 
+## Available Materials
+
+- The Slides for the session
+- The Data and Code described
+- A list of References cited
+
 ## Brief Description
 
 This course describes and demonstrates effective strategies for using propensity score methods to address the potential for selection bias in observational studies comparing the effectiveness of treatments or exposures. We review the main analytical techniques associated with propensity score methods, (focusing on matching, weighting and double robust techniques) and describe key strategic concerns related to effective propensity score estimation, assessment and display of covariate balance, choice of analytic technique, stability and sensitivity analyses, and communicating results effectively.
