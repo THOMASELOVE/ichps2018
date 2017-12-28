@@ -7,7 +7,7 @@ Wednesday 2018-01-10 8 - 10 AM in the Crystal Ballroom CD at the Charleston Marr
 
 - The Slides for the session
 - The Data and Code described
-- A list of References cited
+- A [list of References](https://github.com/THOMASELOVE/ichps2018/tree/master/references) cited in the slides, or otherwise recommended
 
 ## Brief Description
 
