@@ -17,7 +17,7 @@ The workshop provides a useful experience for statisticians and others who are f
 
 ## Instructor
 
-Thomas E. Love, Ph.D. is Professor of Medicine and of [Population and Quantitative Health Sciences](http://epbiwww.case.edu/) at [Case Western Reserve University](http://case.edu/) and has wide experience with applying and teaching statistical methods for observational studies to diverse audiences. 
+Thomas E. Love, Ph.D. is Professor of Medicine and of [Population and Quantitative Health Sciences](http://epbiwww.case.edu/) at [Case Western Reserve University](http://case.edu/) and has wide experience applying and teaching statistical methods for observational studies. 
 
 - Dr. Love was the founding Data Director and is now Chief Data Scientist for [Better Health Partnership](http://www.betterhealthpartnership.org/data_center/), which reports on the care and outcomes of more than 400,000 adults and children living in Northeast Ohio several times each year. 
 - Dr. Love is also the Director of Biostatistics and Evaluation at the [Center for Health Care Research and Policy](http://www.chrp.org), at CWRU and [MetroHealth Medical Center](https://www.metrohealth.org/research). 
