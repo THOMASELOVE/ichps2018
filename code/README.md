@@ -2,12 +2,12 @@
 
 ## The TOY example
 
-- toy.csv data file
-- toy_example_2018_ICHPS.pdf documentation
-- toy_script.R script
+- [toy.csv](https://raw.githubusercontent.com/THOMASELOVE/ichps2018/master/code/toy.csv) data file
+- [toy_example_2018_ICHPS.pdf](https://github.com/THOMASELOVE/ichps2018/blob/master/code/toy_example_2018_ICHPS.pdf) documentation (79 pages)
+- [toy_script.R](https://raw.githubusercontent.com/THOMASELOVE/ichps2018/master/code/toy_script.R) script
 
-## Sensitivity Spreadsheet
+## Sensitivity Spreadsheet: Beware - this was built in 2008
 
-- Spreadsheet (beware - this was built in 2008)
-- Documentation (also quite old now)
+- [Spreadsheet](https://github.com/THOMASELOVE/ichps2018/blob/master/code/sensitivityspreadsheet_2008.xls) 
+- [Documentation](https://github.com/THOMASELOVE/ichps2018/blob/master/code/sensitivitydocumentation_2008.pdf) (10 pages)
 
