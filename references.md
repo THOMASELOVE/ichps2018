@@ -65,3 +65,10 @@
 - My 2008 spreadsheet software is available to you [in this spreadsheet](https://github.com/THOMASELOVE/ichps2018/blob/master/code/sensitivityspreadsheet_2008.xls), and here's [some documentation](https://github.com/THOMASELOVE/ichps2018/blob/master/code/sensitivitydocumentation_2008.pdf).
 - A student of mine, David Ngendahimana, is working on the problem of improving the link between covariate balance and improved sensitivity in selecting a matching procedure. We hope to have something arXived and available for testing on github in the Spring, but David is finishing the other two-thirds of his dissertation first. David is at `dkn18 at case dot edu`.
 
+## Videos To Learn More About Propensity Scores (and if you visit any of these, you'll find many more)
+
+- Jason Roy (Penn) has a Crash Course in Causality [at Coursera](https://www.coursera.org/learn/crash-course-in-causality).
+- Kristin Rankin has a session on [Propensity Score Matching](https://www.youtube.com/watch?v=6ZVIfW6_v1U)
+- Ben Lambert has a series of YouTube videos on [Propensity Score Matching](https://www.youtube.com/watch?v=h0UU6trKR0E)
+- Doug McKee has posted [An Intuitive Introduction to Propensity Score Matching](https://www.youtube.com/watch?v=ACVyPp1Fy6Y)
+- Gary King has a lecture entitled [Why Propensity Scores Should Not Be Used for Matching](https://www.youtube.com/watch?v=rBv39pK1iEs)
