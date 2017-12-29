@@ -32,6 +32,7 @@
 - Ho DE Imai K King G Stuart EA Matching as nonparametric pre-processing for reducing model dependence in parametric causal inference. *Political Analysis* 2007 15: 199-236.
 - Joffe MM Rosenbaum PR Invited commentary: propensity scores *Amer J Epidemiology* 1999 150 (4): 327-33
 - King and Nielsen ([working paper](https://gking.harvard.edu/publications/why-propensity-scores-should-not-be-used-formatching)) argue that the use of propensity score matching to emulate an RCT isn't a good idea, even if using other propensity-score adjustments is a good idea.
+- Love TE Cebul RD et al. Effect of matching for propensity on the balance of 'unmeasured' covariates (Abstract) *J Clin Epidemiol* 2003 56 (9): 920.   
 - Lunceford JK Davidian M Stratification and weighting via the propensity score in estimation of causal treatment effects: A comparative study. *Statistics in Medicine* 2004 23: 2937-60.
 - McCaffrey DF Ridgeway G Morral AR Propensity score estimation with boosted regression for evaluating causal effects in observational studies. *Psychological Methods* 2004, 9: 403-25.
 - Murray PK Love TE et al. Rehabilitation services after the implementation of the nursing home prospective payment system: differences related to patient and nursing home characteristics. *Med Care* 2005 43 (11): 1109-15.  
