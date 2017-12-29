@@ -62,6 +62,6 @@
 - Noah Griefer's [cobalt vignette](https://cran.r-project.org/web/packages/cobalt/vignettes/cobalt_basic_use.html)
 - RAND corporation's [TWANG package materials](https://cran.r-project.org/web/packages/twang/index.html)
 - Luke Keele's [Rbounds package](http://www.personal.psu.edu/ljk20/rbounds.html)
-- My really, really old spreadsheet software is available to you in this spreadsheet, and here's some documentation.
+- My 2008 spreadsheet software is available to you [in this spreadsheet](https://github.com/THOMASELOVE/ichps2018/blob/master/code/sensitivityspreadsheet_2008.xls), and here's [some documentation](https://github.com/THOMASELOVE/ichps2018/blob/master/code/sensitivitydocumentation_2008.pdf).
 - A student of mine, David Ngendahimana, is working on the problem of improving the link between covariate balance and improved sensitivity in selecting a matching procedure. We hope to have something arXived and available for testing on github in the Spring, but David is finishing the other two-thirds of his dissertation first. David is at `dkn18 at case dot edu`.
 
