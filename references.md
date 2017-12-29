@@ -16,6 +16,8 @@
 - Austin PC Mamdani M A comparison of propensity score methods: A case-study illustrating the effectiveness of post-AMI statin use. Statistics in Medicine 2006 25: 2084-106.
     - Peter has been very productive in this area - a selection of his work [is available here](https://works.bepress.com/peter_austin/).
 - Brookhart MA et al. Variable selection for propensity score models. Am J Epidemiology 2006 163: 1149-56.
+- Cameron E Pauling L Supplemental ascorbate in the supportive treatment of cancer: Prolongation of survival times in terminal human cancer. *Proc Natl Acad Sci* 1976 Oct 73 (10): 3685-9.
+- Cameron E Pauling L Supplemental ascorbate in the supportive treatment of cancer: Reevaluation of prolongation of survival times in terminal human cancer. *Proc Natl Acad Sci( 1978 Sept 75 (9): 4538-42. 
 - Connors AF Speroff T Dawson NV et al. for the SUPPORT Investigators The effectiveness of right heart catheterization in the initial care of critically ill patients. *JAMA* 1996 276: 889-97.
 - D’Agostino RB Tutorial in Biostatistics: Propensity Score Methods for Bias Reduction in the Comparison of a Treatment to a Non-Randomized Control Group. *Statistics in Medicine* 1998 17: 2265-81.
 - D’Agostino RB Rubin DB Estimating and using propensity scores with partially missing data. *JASA* 2000 95: 749-59.
