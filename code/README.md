@@ -3,8 +3,8 @@
 ## The TOY example
 
 - [toy.csv](https://raw.githubusercontent.com/THOMASELOVE/ichps2018/master/code/toy.csv) data file
-- [toy_example_2018_ICHPS.pdf](https://github.com/THOMASELOVE/ichps2018/blob/master/code/toy_example_2018_ICHPS.pdf) documentation (79 pages)
-- [toy_script.R](https://raw.githubusercontent.com/THOMASELOVE/ichps2018/master/code/toy_script.R) script
+- [toy_ICHPS.pdf](https://github.com/THOMASELOVE/ichps2018/blob/master/code/toy_ICHPS.pdf) documentation (result of running the R Markdown file below)
+- [toy_ICHPS.Rmd](https://github.com/THOMASELOVE/ichps2018/blob/master/code/toy_ICHPS.Rmd) script
 
 ## Sensitivity Spreadsheet: Beware - this was built in 2008
 
