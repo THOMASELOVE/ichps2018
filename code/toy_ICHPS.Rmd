@@ -25,7 +25,7 @@ library(pander); library(tableone); library(broom)
 library(Epi); library(survival); library(arm)
 library(Hmisc); library(Matching); library(lme4)
 library(twang); library(survey); library(rbounds)
-library(cobalt); library(tidyverse)
+library(devtools); library(cobalt); library(tidyverse)
 ```
 
 # The Toy Data at Load-In {.tabset}
@@ -456,7 +456,7 @@ What this does is calculate the (absolute value of the) standardized difference 
 
 Since we've failed Rubin's 1st Rule, in some sense, we're done checking the rules, because we clearly need to further adjust for observed selection bias - there's no need to prove that further through checking Rubin's 2nd and 3rd rules. But we'll do it here to show what's involved.
 
-[^1]: Rubin DB 2001 Using Propensity Scores to Help Design Observational Studies: Application to the Tobacco Litigation. Health Services & Outcomes Research Methodology 2: 169-188. Available on [our web site](https://sites.google.com/a/case.edu/love-500/home/reading-matter).
+[^1]: Rubin DB 2001 Using Propensity Scores to Help Design Observational Studies: Application to the Tobacco Litigation. Health Services & Outcomes Research Methodology 2: 169-188..
 
 ## Rubin's Rule 2
 
@@ -2060,5 +2060,11 @@ rm(list = c("adj.m.out1", "adj.m.out2", "adj.m.out3",
             "toy.matchedsample", "toy.rubin3", "toy.szd", 
             "toy_df", "toywt1.design", "toywt2.design", "Tr", 
             "unadj.out1", "unadj.out2", "unadj.out3", "varlist", "X", "Y"))
+```
+
+## Session status
+
+```{r}
+devtools::session_info()
 ```
 
