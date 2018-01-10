@@ -20,7 +20,7 @@ The workshop provides a useful experience for statisticians and others who are f
 Thomas E. Love, Ph.D. is Professor of [Medicine](https://case.edu/medicine/) and of [Population and Quantitative Health Sciences](http://epbiwww.case.edu/) at [Case Western Reserve University](http://case.edu/) and has wide experience applying and teaching statistical methods for observational studies. 
 
 - Dr. Love was the founding Data Director and is now Chief Data Scientist for [Better Health Partnership](http://www.betterhealthpartnership.org/data_center/), which reports on the care and outcomes of more than 400,000 adults and children living in Northeast Ohio several times each year. 
-- Dr. Love is also the Director of Biostatistics and Evaluation at the [Center for Health Care Research and Policy](http://www.chrp.org), at CWRU and [MetroHealth Medical Center](https://www.metrohealth.org/research). 
+- He is also the Director of Biostatistics and Evaluation at the [Center for Health Care Research and Policy](http://www.chrp.org), at CWRU and [MetroHealth Medical Center](https://www.metrohealth.org/research). 
 - Dr. Love is a Fellow of the [American Statistical Association](http://www.amstat.org/), is a past Chair of the [Health Policy Statistics Section of ASA](http://community.amstat.org/hpss/home), and co-chaired the 2011 ICHPS, held in Cleveland, Ohio. 
 - Dr. Love's doctorate was earned at the [University of Pennsylvania](https://statistics.wharton.upenn.edu/), where he completed his dissertation under [Paul Rosenbaum](http://www-stat.wharton.upenn.edu/~rosenbap/). 
     - Dr. Rosenbaum and [Donald Rubin](https://statistics.fas.harvard.edu/people/donald-b-rubin) developed propensity scores. 
