@@ -5,7 +5,7 @@ Wednesday 2018-01-10 8 - 10 AM in the Crystal Ballroom CD at the Charleston Marr
 
 ## Available Materials
 
-- The [Slides for the session](https://github.com/THOMASELOVE/ichps2018/blob/master/slides_Love_2018-01-10.pdf)
+- The [Slides for the session](https://github.com/THOMASELOVE/ichps2018/blob/master/slides_Love_2018-01-10.pdf) (revised slightly after the session)
 - The [Data and Code](https://github.com/THOMASELOVE/ichps2018/tree/master/code) described
 - A [list of References](https://github.com/THOMASELOVE/ichps2018/blob/master/references.md) cited in the slides, or otherwise recommended
 
